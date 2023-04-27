@@ -1,1 +1,1 @@
-# PruebaTagshelf
+## PruebaTagshelf - Angel Daniel GuzmanEste repositorio contiene una serie de ejercicios realizados en Python.## Como correrlo:+ Clonar el repositorio o descárgalo:> git clone https://github.com/Maestroabel/PruebaTagshelf.git+ Instalar Python y correr el proyecto en VS code o en cualquier Python Compiler.
